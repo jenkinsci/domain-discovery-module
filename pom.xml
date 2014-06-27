@@ -8,7 +8,7 @@
 
   <groupId>org.jenkins-ci.modules</groupId>
   <artifactId>domain-discovery</artifactId>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <packaging>jenkins-module</packaging>
   <name>Instance Discovery via DNS SRV</name>
   <description>Help organizations discover instances through a special DNS SRV record</description>
